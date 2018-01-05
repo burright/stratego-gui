@@ -1,0 +1,40 @@
+soldier 1
+soldier 2
+soldier 3
+soldier 3
+soldier 4
+soldier 4
+soldier 4
+soldier 5
+soldier 5
+soldier 5
+soldier 5
+soldier 6
+soldier 6
+soldier 6
+soldier 6
+soldier 7
+soldier 7
+soldier 7
+soldier 7
+miner
+miner
+miner
+miner
+miner
+scout
+scout
+scout
+scout
+scout
+scout
+scout
+scout
+spy
+bomb
+bomb
+bomb
+bomb
+bomb
+bomb
+flag
