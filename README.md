@@ -1,6 +1,6 @@
 # Stratego written in C++
 A class project to sucessfully write a game using Object Oriented Programming
-## How to play
+## How to play - [Hasbro rules](https://www.fgbradleys.com/rules/Stratego.pdf)
 ### Pieces (Ordered by rank)
 1 Marshal
 1 General
